@@ -1,2 +1,0 @@
-NeuralDynamics-RTutorial
-========================
