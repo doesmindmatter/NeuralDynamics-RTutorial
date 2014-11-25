@@ -1,4 +1,4 @@
-NDL R Tutorial
+NDL R Tutorial 
 ========================================================
 author: Ryan Mears
 date: March 24, 2014
@@ -9,6 +9,8 @@ transition: linear
 Overview
 ========================================================
 
+[Tutorial Webpage][Tutorial webpage]
+[Tutorial webpage]: http://doesmindmatter.github.io/NeuralDynamics-RTutorial
 
 *Working with data in R with the RStudio GUI*
 
